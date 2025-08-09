@@ -11,7 +11,6 @@
   "author": "Mike Terry",
   "license": "MIT",
   "dependencies": {
-    "topsecret": "^0.11.0",
-    "zyx-system": "^0.20.3"
+    "topsecret": "^0.11.0"
   }
 }
