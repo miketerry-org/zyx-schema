@@ -1,4 +1,4 @@
-// index.js: keeno-schema
+// index.js: zyx-schema
 
 "use strict";
 
