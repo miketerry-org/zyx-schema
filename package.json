@@ -1,6 +1,6 @@
 {
   "name": "zyx-schema",
-  "version": "0.30.0",
+  "version": "0.30.1",
   "description": "Implements JSON validation",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "author": "Mike Terry",
   "license": "MIT",
   "dependencies": {
-    "zyx-system": "^0.30.0"
+    "zyx-system": "^0.30.1"
   }
 }
